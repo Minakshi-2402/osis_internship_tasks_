@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+   
+}
+.img{
+margin-left: 35%;
+
+}
+.tribute h1{
+    color: white;
+    text-align: center;
+}
+.separation1 {
+  height: 7px;
+  background-color: rgba(88, 84, 84, 0.699);
+  margin-top: 1px;
+  z-index: 200;
+
+}
+.about{
+    color: white;
+    width: 50%;
+    margin-left: 25%
+}
+.about h2{
+text-align: center;
+}
+.about span{
+    color: yellow;
+}
